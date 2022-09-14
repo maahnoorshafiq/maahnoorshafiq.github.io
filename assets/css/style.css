@@ -155,7 +155,7 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
+  border-left: 5px solid #86675c;
   color: #795548;
   font-size: 125%;
   font-weight: 400;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #9f8672 repeat;
+  background: #dfcbbb repeat;
   position: relative;
 }
 
