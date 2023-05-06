@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #F8F8F8;
+  color: #F0FFFC;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #F8F8F8 repeat;
+  background: #F0FFFC repeat;
   position: relative;
 }
 
